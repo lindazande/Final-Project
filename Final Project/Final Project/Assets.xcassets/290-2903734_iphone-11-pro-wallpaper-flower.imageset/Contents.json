@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "290-2903734_iphone-11-pro-wallpaper-flower.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
